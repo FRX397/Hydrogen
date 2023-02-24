@@ -52,3 +52,85 @@ _/
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/df17302fd52202c13cc0a080d0dbf245aef7ee0f/install.sh)"
 
 - press enter
+
+-------
+
+```infinite execution```
+
+- use this function
+
+
+if getgenv().single_ex then return end;
+__script here__
+getgenv().single_ex = true;
+
+
+- example
+
+
+if getgenv().single_ex then return end;
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FRX397/Hydrohub/main/Hydro_hub", true))()
+getgenv().single_ex = true;
+
+
+------
+
+```Hydrogen MacOS quit unexpectedly```
+
+- Open Settings
+
+- Security & Privacy
+
+- Privacy
+
+- Full disk access
+
+- Remove full disk access from hydrogen
+
+- Give terminal full disk access
+
+- Open Finder
+
+- Search Hydrogen
+
+- Remove Hydrogen Folder
+
+- Remove Hydrogen Application
+
+- Open terminal
+
+- Paste this in terminal
+
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/df17302fd52202c13cc0a080d0dbf245aef7ee0f/install.sh)"
+
+
+- press enter
+
+- Open Finder
+
+- Search Roblox
+
+- Right Click On Roblox Application
+
+- Show Package content
+
+- Open Contents
+
+- Open MacOS 
+
+- Check if libhydrogen.dylib exists on roblox content files
+
+-_ if libhydrogen.dylib dosen't exists on roblox content files
+
+- Open terminal 
+
+- Paste this in terminal
+
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/df17302fd52202c13cc0a080d0dbf245aef7ee0f/install.sh)"
+
+
+- Press enter 
+ 
+-_ check if libhydrogen.dylib exists on roblox content files agin (This file is important) 
