@@ -37,7 +37,7 @@ _/
 
 - Paste this in terminal
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/df17302fd52202c13cc0a080d0dbf245aef7ee0f/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/1b236359eed3e82fe7d723782cd68133fca9658f/install.sh)"
 
 - press enter
 
@@ -49,13 +49,13 @@ _/
 
 - Paste this in terminal
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/df17302fd52202c13cc0a080d0dbf245aef7ee0f/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/1b236359eed3e82fe7d723782cd68133fca9658f/install.sh)"
 
 - press enter
 
 -------
 
-```infinite execution```
+```loop execution```
 
 - use this function
 
@@ -102,7 +102,7 @@ getgenv().single_ex = true;
 - Paste this in terminal
 
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/df17302fd52202c13cc0a080d0dbf245aef7ee0f/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/1b236359eed3e82fe7d723782cd68133fca9658f/install.sh)"
 
 
 - press enter
@@ -128,9 +128,23 @@ getgenv().single_ex = true;
 - Paste this in terminal
 
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/df17302fd52202c13cc0a080d0dbf245aef7ee0f/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/1b236359eed3e82fe7d723782cd68133fca9658f/install.sh)"
 
 
 - Press enter 
  
 -_ check if libhydrogen.dylib exists on roblox content files agin (This file is important) 
+
+-------
+
+```Cwf_MacOS```
+
+- Open terminal
+
+- paste this in terminal
+
+
+sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
+
+
+- press enter
