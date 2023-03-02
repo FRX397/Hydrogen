@@ -1,63 +1,58 @@
-```Can't tap anything the buttons do nothing```
+```i pressed execute nothing happened```
 
-- Un-install Roblox
+- try this script to see if the execution works or not
 
-- Re-install it agin
 
--------
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", true))()
 
-```Waiting for game```
-
-- join a game
 
 _/
 
-- Don't join your friends in the game
-
--_ if you want to play with your friends
-
-- Choose the game you want to play
-
-- Scroll Dowwn
-
-- Click on servers
-
-- Now you can join a game with your friends
+- Use a VPN
 
 -------
 
 ```Hydrogen icon did not appear```
 
-- Update Chrome Browser
+- join a game
 
 _/
 
-- Give Roblox pop up / overlay / Display over other Apps permissions
+- Make sure to give roblox storage permissions
 
 _/
 
-- Re-install Roblox Again Using Hydrogen Packer
+- Re-install Roblox (client.apk)
 
 -------
 
 ```Crash```
 
+
 - Open Settings
+
 
 - About Phone
 
+
 - Click On Build Number 7 times
+
 
 - find developer options
 
+
 - find these two options and enable them
 
+
 Show all ANRs & Always show crash dialogue
+
 
 - You can play now
 
 _/
 
-- Update chrome browser
+- Clear Roblox App data
 
-- Re-install Roblox again using Hydrogen Packer
+_/
+
+- Re-install Roblox
