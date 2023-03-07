@@ -4,6 +4,13 @@
 
 # the Instructions
 
+ Youtube Video :
+ <a href="https://m.youtube.com/watch?v=fNIYh9PHGSk&feature=youtu.be" target="_blank">
+
+ <img src="https://img.youtube.com/vi/fNIYh9PHGSk/sddefault.jpg" alt="Watch the video" width="640" border="10" />
+
+</a>
+ 
 * visit [doesmyfoodhavetasteornot](https://doesmyfoodhavetasteornot.com)
 
 * search nowgg.me
