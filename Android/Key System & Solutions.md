@@ -8,7 +8,7 @@ __Temporarily disabled__
 
 - Press get key
 
--_ Now Close Hydrogen ui
+Now Close Hydrogen ui
 
 - Press X
 
