@@ -1,4 +1,4 @@
-```How to give terminal/Hydrogen Full Disk Access```
+# How to give terminal/Hydrogen Full Disk Access
 
 - Open settings 
 
@@ -14,7 +14,7 @@
 
 -------
 
-```Open Hydrogen as sudo```
+# Open Hydrogen as sudo
 
 - Open terminal
 
