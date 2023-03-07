@@ -1,9 +1,11 @@
-```How to fix Hydrogen issues On MacOS```
+# How to fix Hydrogen issues On MacOS
 
 
 ```Hydrogen is out of date.```
 
 - Update it -> #macos-updates. updated already? press "ok" and use it
+
+-----
 
 ```You don't have permission to save the file "random.hydro"in the folder "scripts".```
 
@@ -11,13 +13,13 @@
 
 - paste this in terminal
 
-
+```
 sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
-
+```
 
 - press enter
 
--_ didn't work? Re-install it
+didn't work? Re-install it
 
 - Open the link bellow and follow the Instructions
 
@@ -31,11 +33,11 @@ https://github.com/FRX397/Hydrogen/blob/main/MacOS/Re-install%20&%20Un-install
 
 - try this script to see if the execution works or not
 
-
+```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", true))()
+```
 
-
-_/
+Or
 
 - Close roblox
 
@@ -45,7 +47,9 @@ _/
 
 - Paste this in terminal
 
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/1b236359eed3e82fe7d723782cd68133fca9658f/install.sh)"
+```
 
 - press enter
 
@@ -69,11 +73,13 @@ _/
 
 - Paste this in terminal
 
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/1b236359eed3e82fe7d723782cd68133fca9658f/install.sh)"
+```
 
 - press enter
 
-_/
+Or
 
 - Open Finder.
 
@@ -103,33 +109,31 @@ _/
 
 - paste this in terminal
 
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/1b236359eed3e82fe7d723782cd68133fca9658f/install.sh)"`
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/1b236359eed3e82fe7d723782cd68133fca9658f/install.sh)"
+```
 
 - Press enter
 
 - fixed :)
 
-__
-
-_/
-
--_ didn't work?
+Or
 
 - use this function
 
-
+```
 if getgenv().single_ex then return end;
 __script here__
 getgenv().single_ex = true;
-
+```
 
 - example
 
-
+```
 if getgenv().single_ex then return end;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FRX397/Hydrohub/main/Hydro_hub", true))()
 getgenv().single_ex = true;
-
+```
 
 ------
 
@@ -159,9 +163,9 @@ getgenv().single_ex = true;
 
 - Paste this in terminal
 
-
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/1b236359eed3e82fe7d723782cd68133fca9658f/install.sh)"
-
+```
 
 - press enter
 
@@ -179,19 +183,19 @@ getgenv().single_ex = true;
 
 - Check if libhydrogen.dylib exists on roblox content files
 
--_ if libhydrogen.dylib dosen't exists on roblox content files
+if libhydrogen.dylib dosen't exists on roblox content files follow the Instructions bellow.
 
 - Open terminal 
 
 - Paste this in terminal
 
-
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/1b236359eed3e82fe7d723782cd68133fca9658f/install.sh)"
-
+```
 
 - Press enter 
  
--_ check if libhydrogen.dylib exists on roblox content files agin (This file is important) 
+check if libhydrogen.dylib exists on roblox content files agin (This file is important) 
 
 -------
 
@@ -201,8 +205,8 @@ getgenv().single_ex = true;
 
 - paste this in terminal
 
-
+```
 sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
-
+```
 
 - press enter
