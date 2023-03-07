@@ -2,7 +2,7 @@ __Temporarily disabled__
 
 
 
-```Key System Instructions```
+# Key System Instructions
 
 - Click On Hydrogen icon
 
@@ -20,7 +20,7 @@ __Temporarily disabled__
 
 - press get key
 
--_ it redirect you to linkvertise. scroll down. press free access. complete the task. Wait 5 seconds press X. press free access again. same steps (you need to pass 3 gateways)
+it redirect you to linkvertise. scroll down. press free access. complete the task. Wait 5 seconds press X. press free access again. same steps (you need to pass 3 gateways)
 
 - Copy the key
 
