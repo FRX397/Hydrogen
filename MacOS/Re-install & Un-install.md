@@ -1,4 +1,4 @@
-``if terminal says No such file or directory (Re-install only)``
+# if terminal says No such file or directory (Re-install only)
 
 - Open Finder
 
@@ -8,7 +8,7 @@
 
 ------
 
-```How To Re-install Hydrogen On MacOS```
+# How To Re-install Hydrogen On MacOS
 
 - Open finder
 
@@ -40,7 +40,9 @@
 
 - Paste this on terminal
 
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/1b236359eed3e82fe7d723782cd68133fca9658f/install.sh)"
+```
 
 - Press enter
 
