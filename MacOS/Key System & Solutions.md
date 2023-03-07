@@ -10,7 +10,7 @@
 
 - press get key
 
--_ it redirect you to linkvertise. scroll down. click on free access. complete the task. Wait 5 seconds press X. press free access again. same steps (you need to pass 3 gateways)
+it redirect you to linkvertise. scroll down. click on free access. complete the task. Wait 5 seconds press X. press free access again. same steps (you need to pass 3 gateways)
 
 - Copy the key
 
@@ -28,6 +28,6 @@
 
 - Use another browser
 
-_/
+Or
 
 - close and Open a new tab
