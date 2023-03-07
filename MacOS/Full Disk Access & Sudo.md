@@ -20,8 +20,9 @@
 
 - paste this in terminal 
 
-sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
-
+```
+sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
+```
 - press enter
 
 - done.
