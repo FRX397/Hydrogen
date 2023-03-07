@@ -12,4 +12,4 @@
 
 - Open workspace
 
--_ You can add configs into the workspace folder for some scripts like vape script.or edit change/remove some configs
+You can add configs into the workspace folder for some scripts like vape script.or edit change/remove some configs
