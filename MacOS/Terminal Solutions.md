@@ -1,4 +1,4 @@
-```Some terminal solutions```
+# Some terminal solutions
 
 ```Operation not permitted```
 
@@ -40,7 +40,6 @@
 
 ------
 
-```curl (28) Failed to connect to raw.githubusercontent.com port 443 after 75280 ms:
-Operation timed out```
+```curl (28) Failed to connect to raw.githubusercontent.com port 443 after 75280 ms: Operation timed out```
 
 - Use a VPN
