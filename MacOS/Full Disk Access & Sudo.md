@@ -1,4 +1,4 @@
-# How to give terminal/Hydrogen Full Disk Access
+# Full Disk Access
 
 - Open settings 
 
