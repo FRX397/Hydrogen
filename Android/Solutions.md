@@ -2,11 +2,11 @@
 
 - try this script to see if the execution works or not
 
-
+```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", true))()
+```
 
-
-_/
+Or
 
 - Use a VPN
 
@@ -16,11 +16,11 @@ _/
 
 - join a game
 
-_/
+Or
 
 - Make sure to give roblox storage permissions
 
-_/
+Or
 
 - Re-install Roblox (client.apk)
 
@@ -44,15 +44,16 @@ _/
 - find these two options and enable them
 
 
-Show all ANRs & Always show crash dialogue
+"Show all ANRs" 
+"Always show crash dialogue"
 
 
 - You can play now
 
-_/
+Or
 
 - Clear Roblox App data
 
-_/
+Or
 
 - Re-install Roblox (client.apk)
