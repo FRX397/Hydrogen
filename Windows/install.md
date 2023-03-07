@@ -4,6 +4,10 @@
 
 # the Instructions
 
+Use memu or any other android emulator if your pc is high end.
+
+For low end devices :
+
  Youtube Video :
 
  <a href="https://m.youtube.com/watch?v=fNIYh9PHGSk&feature=youtu.be" target="_blank">
