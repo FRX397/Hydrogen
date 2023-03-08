@@ -15,7 +15,7 @@
 - Paste this in terminal
 
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/1b236359eed3e82fe7d723782cd68133fca9658f/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/4aaeecfd1eb9127e9bcac07bc4d8e1ddcec17f52/install.sh)"
 ```
 
 - Press enter
