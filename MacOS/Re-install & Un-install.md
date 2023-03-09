@@ -61,7 +61,7 @@ https://github.com/FRX397/Hydrogen/blob/main/MacOS/Full%20Disk%20Access%20%26%20
 
 --------
 
-```How To Un-install Hydrogen On MacOS```
+# How To Un-install Hydrogen On MacOS
 
 - Open finder
 
