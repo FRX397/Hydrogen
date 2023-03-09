@@ -1,5 +1,7 @@
 # Requirements
 
+```Re-install Only```
+
 - macos version 11 or later is required
 
 
