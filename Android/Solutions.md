@@ -26,7 +26,7 @@ Or
 
 -------
 
-```Crash```
+```Crash / Launching Experience```
 
 
 - Open Settings
