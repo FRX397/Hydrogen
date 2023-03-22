@@ -38,7 +38,7 @@ https://github.com/FRX397/Hydrogen/blob/main/MacOS/Full%20Disk%20Access%20%26%20
 - Paste this in terminal
 
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/ab4738e070dc878df22798b281d6535f9dca22ca/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/b20b688b4539fcda39f36a35f212711493c999e7/install.sh)"
 ```
 
 - Press enter
