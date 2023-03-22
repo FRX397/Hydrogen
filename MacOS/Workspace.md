@@ -8,6 +8,8 @@
 
 - Show Package Content
 
+- Open Contents
+
 - Open Resources
 
 - Open workspace
