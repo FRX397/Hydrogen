@@ -57,3 +57,7 @@ Or
 Or
 
 - Re-install Roblox (client.apk)
+
+Or
+
+- Grant Roblox Storage Permissions
