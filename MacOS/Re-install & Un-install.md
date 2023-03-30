@@ -51,13 +51,15 @@ https://github.com/FRX397/Hydrogen/blob/main/MacOS/Full%20Disk%20Access%20%26%20
 
 - Remove Hydrogen folder
 
-- Open terminal
+- Open this link
 
-- Paste this in terminal
+https://github.com/FRX397/Hydrogen/blob/main/MacOS/Bash.md
 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/b20b688b4539fcda39f36a35f212711493c999e7/install.sh)"
-```
+- copy the bash
+
+- Open Terminal
+
+- Paste The Bash
 
 - Press enter
 
