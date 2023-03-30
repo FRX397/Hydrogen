@@ -43,15 +43,17 @@ Or
 
 - Close Hydrogen
 
-- Open terminal
+- Open this link
 
-- Paste this in terminal
+https://github.com/FRX397/Hydrogen/blob/main/MacOS/Bash.md
 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/b20b688b4539fcda39f36a35f212711493c999e7/install.sh)"
-```
+- copy the bash
 
-- press enter
+- Open Terminal
+
+- Paste The Bash
+
+- Press enter
 
 ---------
 
@@ -69,15 +71,17 @@ Or
 
 - Remove Hydrogen Application
 
-- Open terminal
+- Open this link
 
-- Paste this in terminal
+https://github.com/FRX397/Hydrogen/blob/main/MacOS/Bash.md
 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/b20b688b4539fcda39f36a35f212711493c999e7/install.sh)"
-```
+- copy the bash
 
-- press enter
+- Open Terminal
+
+- Paste The Bash
+
+- Press enter
 
 Or
 
@@ -105,13 +109,15 @@ Or
 
 - Remove Hydrogen Folder
 
-- Open terminal
+- Open this link
 
-- paste this in terminal
+https://github.com/FRX397/Hydrogen/blob/main/MacOS/Bash.md
 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/b20b688b4539fcda39f36a35f212711493c999e7/install.sh)"
-```
+- copy the bash
+
+- Open Terminal
+
+- Paste The Bash
 
 - Press enter
 
@@ -159,15 +165,17 @@ getgenv().single_ex = true;
 
 - Remove Hydrogen Application
 
-- Open terminal
+- Open this link
 
-- Paste this in terminal
+https://github.com/FRX397/Hydrogen/blob/main/MacOS/Bash.md
 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/b20b688b4539fcda39f36a35f212711493c999e7/install.sh)"
-```
+- copy the bash
 
-- press enter
+- Open Terminal
+
+- Paste The Bash
+
+- Press enter
 
 - Open Finder
 
@@ -185,15 +193,17 @@ getgenv().single_ex = true;
 
 if libhydrogen.dylib dosen't exists on roblox content files follow the Instructions bellow.
 
-- Open terminal 
+- Open this link
 
-- Paste this in terminal
+https://github.com/FRX397/Hydrogen/blob/main/MacOS/Bash.md
 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/b20b688b4539fcda39f36a35f212711493c999e7/install.sh)"
-```
+- copy the bash
 
-- Press enter 
+- Open Terminal
+
+- Paste The Bash
+
+- Press enter
  
 check if libhydrogen.dylib exists on roblox content files agin (This file is important) 
 
