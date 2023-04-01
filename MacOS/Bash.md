@@ -1,3 +1,3 @@
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/53725578752f0e6a7bed03b816957fdd5598a1a6/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/3780b7551ceea6dbe8626e61151a9c7ff48e963c/install.sh)"
 ```
