@@ -1,3 +1,1 @@
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/3780b7551ceea6dbe8626e61151a9c7ff48e963c/install.sh)"
-```
+Okay so i'm tired of updating the bash everytime, you can find it at https://hydrogen.sh/download and copy the link then open the terminal application and press enter...
