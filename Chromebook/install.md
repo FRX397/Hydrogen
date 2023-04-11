@@ -30,13 +30,13 @@ adb install “filename.apk”
 - Permission Denied or Command Not Found
 
 ```Run this command: adb start-server 
-And do the command again “adb connect 100.115.92.2:5555”```
+And do the command again. adb connect 100.115.92.2:5555```
 
 --------
 
 - If it tells you to “kill the server”
 
-```Run the command adb kill-server
+```Run the command: adb kill-server
 Then close out of the terminal, open it back up and repeat the command again.```
 
 --------
