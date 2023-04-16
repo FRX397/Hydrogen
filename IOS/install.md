@@ -1,4 +1,4 @@
-# Status doesmyfoodhavetasteornot.com will not work trying to find another site. 
+# Status : doesmyfoodhavetasteornot.com will not work trying to find another site. 
 
 # Status : Nowgg.me Under maintenance
 
