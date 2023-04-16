@@ -1,4 +1,4 @@
-# Status : Nowgg.me Undee maintenance
+# Status : Nowgg.me Under maintenance
 
 
 ```Keep in mind, it's a limited experience and you have to repeat the same steps every time```
