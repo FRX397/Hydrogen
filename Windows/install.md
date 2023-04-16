@@ -1,3 +1,5 @@
+# Status : Nowgg.me Under maintenance
+
 ```Keep in mind, it's a limited experience and you have to repeat the same steps every time```
 
 ```don't close the browser page, or you'll have to repeat the same steps again```
