@@ -1,4 +1,4 @@
-# Status : doesmyfoodhavetasteornot.com will not work trying to find another site. 
+# Status : uk1.noblo.cc : working
 
 # Status : Nowgg.me Under maintenance
 
@@ -15,7 +15,7 @@
 
 </a>
  
-* visit [doesmyfoodhavetasteornot](https://doesmyfoodhavetasteornot.com)
+* visit [uk1.noblo.cc](https://uk1.noblo.cc)
 
 * search nowgg.me
 <img src="https://cdn.discordapp.com/attachments/1082498673474293799/1082499036071874610/Screenshot_20230307_050352.jpg" width="735" >
