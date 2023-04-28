@@ -2,6 +2,7 @@
 
 - macos version 11 or later is required
 
+- Adminstrator account (mac) required
 
 ```Terminal Full Disk Access```
 
