@@ -1,3 +1,9 @@
+# about the key system 
+
+- if the key system / linkvertise is blocked i suggest to buy adless and using Hydrogen without watching the ads and also you don't need to get a key every 24 hour buy adless -> https://hydrogen.sh/adless
+
+---------------
+
 - Download hydrogen (client.apk) through this link :
 
  https://linkvertise.com/514008/hydrogen-download/1
