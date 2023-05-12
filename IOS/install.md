@@ -1,3 +1,5 @@
+# Sorry i think it's all patched, i removed the site. 
+
 # Status : none : none
 
 # Status : Nowgg.me Under maintenance
