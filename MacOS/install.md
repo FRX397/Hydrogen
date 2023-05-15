@@ -2,7 +2,7 @@
 
 - macos version 11 or later is required
 
-- Adminstrator account (mac) required
+- Adminstrator account (mac) is required
 
 ```Terminal Full Disk Access```
 
@@ -23,16 +23,6 @@ https://github.com/FRX397/Hydrogen/blob/main/MacOS/Full%20Disk%20Access%20%26%20
 --------
 
 # How to install Hydrogen On MacOS
-
-- Open settings
-
-- Security & Privacy
-
-- Privacy
-
-- Full disk access
-
-- Give terminal full disk access
 
 - Open this link
 
