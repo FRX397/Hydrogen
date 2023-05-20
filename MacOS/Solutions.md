@@ -207,6 +207,13 @@ https://github.com/FRX397/Hydrogen/blob/main/MacOS/Bash.md
  
 check if libhydrogen.dylib exists on roblox content files agin (This file is important) 
 
+--------
+
+If it didn't work please read repo and do sudo
+
+https://github.com/FRX397/Hydrogen/blob/main/MacOS/Full%20Disk%20Access%20%26%20Sudo.md
+
+
 -------
 
 ```Cwf_MacOS```
