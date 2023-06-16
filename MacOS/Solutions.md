@@ -3,7 +3,7 @@
 
 ```Hydrogen is out of date.```
 
-- Update it -> #macos-updates. updated already? press "ok" and use it
+- Update it -> [#macos-updates](https://discord.com/channels/924722337981530132/1060376974813573120). updated already? press "ok" and use it
 
 -----
 
