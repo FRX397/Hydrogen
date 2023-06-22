@@ -1,4 +1,4 @@
-## `How to install Hydrogen on Android`
+## `installation & setup`
 > visit [Hydrogen Offical Website](https://hydrogen.sh/download)
 >
 > Download For Android
