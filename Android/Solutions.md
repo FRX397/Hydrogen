@@ -18,7 +18,7 @@ Or
 
 Or
 
-- Make sure to give roblox storage permissions
+- Make sure to roblox has storage permissions given
 
 Or
 
