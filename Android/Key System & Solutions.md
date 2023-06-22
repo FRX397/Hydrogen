@@ -1,53 +1,36 @@
-# Key System Instructions
+## `How to get the key`
 
-- Click On Hydrogen icon
-
-- Press get key
-
-Now Close Hydrogen ui
-
-- Press X
-
-- Open On any browser you have
-
-- click on the check box
-
-- complete captcha check
-
-- press get key
-
-it redirect you to linkvertise. scroll down. press free access. complete the task. Wait 5 seconds press X. press free access again. same steps (you need to pass 3 gateways)
-
-- Copy the key
-
-- Open Hydrogen
-
-- paste the key on the key tab (not login/account)
-
-- Continue
-
--------
-
-```Some Hydrogen Key System Solutions```
-
-```Application error: a client-side exception has occurred```
-
-- Use another browser
-
--------
-
-```key dosen't match HWID```
-
-- Open roblox
-
-- Click on hydrogen icon
-
-- Press get key
-
-- Get a key
-
-- Copy it
-
-- Paste the key
-
-- Continue
+> Click On Copy Key Link Button
+>
+> Open any browser you have
+>
+> Paste The Key Link
+> 
+> click on the check box
+>
+> complete captcha check
+>
+> press get key
+>
+> - it redirect you to linkvertise. scroll down. press free access. complete the task. Wait 5 seconds press X. press free access again. same steps (you need to pass 3 gateways)
+>
+> Copy the key
+>
+> Open Hydrogen
+>
+> paste the key on the key tab (not adless login)
+>
+> Enter Key
+>
+> -------
+## `Hydrogen Key System Solutions`
+>
+> - **Application error: a client-side exception has occurred**
+>
+> Use a different browser
+>
+> -------
+> - **key dosen't match HWID**
+>
+> Back to `How to get the key`
+> ___
