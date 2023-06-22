@@ -43,8 +43,12 @@
 > ____
 /
 > Clear Roblox App data
+>
 /
+>
 > Re-install Roblox (client.apk)
+>
 /
+>
 > Grant Roblox Storage Permissions
 > ______
