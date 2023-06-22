@@ -1,4 +1,5 @@
-## `How to get the key`
+<details>
+  <summary>How to get the key</summary>
 
 > Click On Copy Key Link Button
 >
@@ -23,8 +24,13 @@
 > Enter Key
 >
 > -------
-## `Hydrogen Key System Solutions`
->
+</details>
+
+------
+
+<details>
+  <summary>Hydrogen Key System Solutions</summary>
+
 > - **Application error: a client-side exception has occurred**
 >
 > Use a different browser
@@ -34,3 +40,6 @@
 >
 > Back to `How to get the key`
 > ___
+</details>
+
+-----
