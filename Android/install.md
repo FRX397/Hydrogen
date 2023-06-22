@@ -10,4 +10,4 @@
 
 - Open roblox
 
-- Give Roblox Storage permissions
+- Grant Roblox Storage permissions
