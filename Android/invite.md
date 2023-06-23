@@ -1,3 +1,3 @@
-[<kbd> <br>Hydrogen Offical Discord Server <br> </kbd>][Hydrogen]
+[<kbd> <br> Hydrogen Offical Discord Server <br> </kbd>][Hydrogen]
 
-[Hydrogen]: discord.gg/Hydrogen
+[Hydrogen]: https://discord.com/invite/Hydrogen
