@@ -1,45 +1,60 @@
-# Some terminal solutions
+<details>
+  <summary>Operation not permitted</summary>
 
-```Operation not permitted```
+> Open settings 
+>
+> Security & Privacy
+>
+> Privacy
+>
+> Full disk access
+>
+> Grant terminal full disk access
+>
+> Remove full disk access from hydrogen
+>
+> ------
+</details>
 
-- Open settings 
+> ___
 
-- Security & Privacy
+<details>
+  <summary>permissions denied</summary>
 
-- Privacy
+> Open settings 
+>
+> Security & Privacy
+>
+> Privacy
+>
+> Full disk access
+>
+> Grant terminal full disk access 
+>
+> ------
+</details>
 
-- Full disk access
+> ___
 
-- Give terminal full disk access
+<details>
+  <summary>No such file or directory</summary>
 
-- Remove full disk access from hydrogen
+> Open finder
+>
+> Search Roblox 
+>
+> Add Roblox to /Applications
+>
+> ------
+</details>
 
-------
+> ___
 
-```permissions denied```
+<details>
+  <summary>curl (28) Failed to connect to raw.githubusercontent.com port 443 after 75280 ms: Operation timed out</summary>
 
-- Open settings 
+> Use a VPN
 
-- Security & Privacy
+</details>
 
-- Privacy
-
-- Full disk access
-
-- Give terminal full disk access 
-
-------
-
-```No such file or directory```
-
-- Open finder
-
-- Search Roblox 
-
-- Add Roblox to /Applications
-
-------
-
-```curl (28) Failed to connect to raw.githubusercontent.com port 443 after 75280 ms: Operation timed out```
-
-- Use a VPN
+> ___
