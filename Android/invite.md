@@ -1,1 +1,3 @@
-[Join Our Offical Discord Server](https://discord.gg/Hydrogen)
+[<kbd> <br> Hydrogen Offical Discord Server <br> </kbd>][Link]
+
+[Link]: discord.gg/Hydrogen
