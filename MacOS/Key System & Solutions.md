@@ -1,33 +1,39 @@
-# How to get the key on MacOS
+<details>
+  <summary>How to get the key</summary>
 
-- Open Hydrogen
+> Open Hydrogen
+>
+> press get key
+>
+> click on the check box
+>
+> complete captcha check
+>
+> press get key
+>
+> - it redirect you to linkvertise. scroll down. click on free access. complete the task. Wait 5 seconds press X. press free access again. same steps (you need to pass 3 gateways)
+>
+> Copy the key
+>
+> Open Hydrogen
+>
+> paste the key on the key tab (**not adless login**)
+>
+> Authenticate
+>
+> --------
+</details>
 
-- press get key
+> ___
 
-- click on the check box
+<details>
+  <summary>Application error: a client-side exception has occurred</summary>
 
-- complete captcha check
+> Use a different browser
+>
+/
+> close and Open a new tab
 
-- press get key
+</details>
 
-it redirect you to linkvertise. scroll down. click on free access. complete the task. Wait 5 seconds press X. press free access again. same steps (you need to pass 3 gateways)
-
-- Copy the key
-
-- Open Hydrogen
-
-- paste the key on the key tab (not login/account)
-
-- Authenticate
-
---------
-
-# Some Hydrogen Key System Solutions
-
-```Application error: a client-side exception has occurred```
-
-- Use another browser
-
-Or
-
-- close and Open a new tab
+> ___
