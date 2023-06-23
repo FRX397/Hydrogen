@@ -1,3 +1,5 @@
-[Join Our Offical Discord Server](https://discord.gg/Hydrogen)
+[<kbd> <br> Hydrogen Offical Discord Server <br> </kbd>][Hydrogen]
+
+[Hydrogen]: https://discord.com/invite/Hydrogen
 
 - Note: hydrogen is not out for ios yet!
