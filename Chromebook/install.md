@@ -111,7 +111,9 @@ adb -s emulator-5554 install client.apk
 
 <details>
   <summary>Permission Denied or Command Not Found</summary>
+
 > ___
+
 > Run this command: 
 ```
 adb start-server
