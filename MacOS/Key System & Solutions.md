@@ -1,6 +1,8 @@
 <details>
   <summary>How to get the key</summary>
 
+> ___
+
 > Open Hydrogen
 >
 > press get key
@@ -21,13 +23,15 @@
 >
 > Authenticate
 >
-> --------
+
 </details>
 
 > ___
 
 <details>
   <summary>Application error: a client-side exception has occurred</summary>
+
+> ___
 
 > Use a different browser
 >
