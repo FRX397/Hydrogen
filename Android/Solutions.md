@@ -13,7 +13,7 @@
 > -------
 </details>
 
------
+> -----
 
 <details>
   <summary>Hydrogen dosen't appear</summary>
@@ -31,7 +31,7 @@
 > -------
 </details>
 
-------
+> ------
 
 <details>
   <summary>Crash / Launching Experience</summary>
@@ -65,4 +65,4 @@
 > ______
 </details>
 
-------
+> ------
