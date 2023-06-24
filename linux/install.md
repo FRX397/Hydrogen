@@ -1,4 +1,1 @@
-Method Patched, Sorry
-
-
-if i find another method i will edit.
+Method Patched, Sorry!
