@@ -1,7 +1,9 @@
 <details>
   <summary>execution dosen't work</summary>
 
-  > - test script
+> ___
+
+> - test script
 > ```lua
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", true))()
 > ```
@@ -9,14 +11,15 @@
 /
 > ___
 > Use a VPN
->
-> -------
+
 </details>
 
 > -----
 
 <details>
   <summary>Hydrogen dosen't appear</summary>
+
+> ___
 
 > join a game
 > ___
@@ -28,13 +31,15 @@
 > ___
 > Re-install Roblox (client.apk)
 >
-> -------
+
 </details>
 
 > ------
 
 <details>
   <summary>Crash / Launching Experience</summary>
+
+> ___
 
 > Open Settings
 >
@@ -62,7 +67,7 @@
 /
 > ___
 > Grant Roblox Storage Permissions
-> ______
+
 </details>
 
 > ------
