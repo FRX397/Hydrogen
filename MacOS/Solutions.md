@@ -1,229 +1,168 @@
-# How to fix Hydrogen issues On MacOS
+<details>
+  <summary>execution dosen't work</summary>
 
-
-```Hydrogen is out of date.```
-
-- Update it -> [#macos-updates](https://discord.com/channels/924722337981530132/1060376974813573120). updated already? press "ok" and use it
-
------
-
-```You don't have permission to save the file "random.hydro"in the folder "scripts".```
-
-- Open terminal
-
-- paste this in terminal
-
-```
-sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
-```
-
-- press enter
-
-didn't work? Re-install it
-
-- Open the link bellow and follow the Instructions
-
-
-https://github.com/FRX397/Hydrogen/blob/main/MacOS/Re-install%20&%20Un-install
-
-
------------
-
-```i pressed execute nothing happened```
-
-- try this script to see if the execution works or not
-
-```
+> test script
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", true))()
 ```
+>
+/
+>
+> Close roblox
+>
+> Close Hydrogen
+>
+> [<kbd> <br>Open this link<br> </kbd>][Link]
+>
+> [Link]: https://github.com/FRX397/Hydrogen/blob/main/MacOS/install.md
+>
+> ---------
+</details>
 
-Or
+> ___
 
-- Close roblox
+<details>
+  <summary>roblox quit unexpectly</summary>
 
-- Close Hydrogen
+> Close roblox
+>
+> Close Hydrogen
+>
+> [<kbd> <br>Open this link<br> </kbd>][Link]
+>
 
-- Open this link
+/
 
-https://github.com/FRX397/Hydrogen/blob/main/MacOS/Bash.md
+> Open Finder.
+>
+> Search Hydrogen.
+>
+> Open Hydrogen folder.
+>
+> Open scripts folder.
+>
+> Remove the files that are in the scripts folder.
+>
+> Join Roblox again and it will be fixed.
+>
+> -------
+</details>
 
-- copy the bash
+> ___
 
-- Open Terminal
+<details>
+  <summary>loop execution</summary>
 
-- Paste The Bash
+> Open finder
+>
+> Search Hydrogen
+>
+> Remove Hydrogen Application
+>
+> Remove Hydrogen Folder
+>
+> [<kbd> <br>Open this link<br> </kbd>][Link]
+>
 
-- Press enter
+/
 
----------
-
-```roblox quit unexpectly```
-
-- Close Roblox 
-
-- Close Hydrogen
-
-- Open Finder 
-
-- Search Hydrogen
-
-- Remove Hydrogen Folder
-
-- Remove Hydrogen Application
-
-- Open this link
-
-https://github.com/FRX397/Hydrogen/blob/main/MacOS/Bash.md
-
-- copy the bash
-
-- Open Terminal
-
-- Paste The Bash
-
-- Press enter
-
-Or
-
-- Open Finder.
-
-- Search Hydrogen.
-
-- Open Hydrogen folder.
-
-- Open scripts folder.
-
-- Remove the files that are in the scripts folder.
-
-- Join Roblox again and it will be fixed.
-
--------
-
-```loop execution```
-
-- Open finder
-
-- Search Hydrogen
-
-- Remove Hydrogen Application
-
-- Remove Hydrogen Folder
-
-- Open this link
-
-https://github.com/FRX397/Hydrogen/blob/main/MacOS/Bash.md
-
-- copy the bash
-
-- Open Terminal
-
-- Paste The Bash
-
-- Press enter
-
-- fixed :)
-
-Or
-
-- use this function
-
-```
+> use this function
+>
+```lua
 if getgenv().single_ex then return end;
 __script here__
 getgenv().single_ex = true;
 ```
-
-- example
-
-```
+>
+> example
+>
+```lua
 if getgenv().single_ex then return end;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FRX397/Hydrohub/main/Hydro_hub", true))()
 getgenv().single_ex = true;
 ```
+>
+>
+> -----
+</details>
 
-------
+> ___
 
-```Hydrogen MacOS quit unexpectedly```
+<details>
+  <summary>Hydrogen is out of date.</summary>
 
-- Open Settings
+> Update it -> [#macos-updates](https://discord.com/channels/924722337981530132/1060376974813573120), updated already? press "ok" and use it
+>
+> ____
+> </details>
 
-- Security & Privacy
+> ____
+</details>
 
-- Privacy
+<details>
+  <summary>You don't have permission to save the file "random.hydro" in the folder "scripts"</summary>
 
-- Full disk access
+> Open terminal
+>
+> paste in terminal
 
-- Remove full disk access from hydrogen
-
-- Give terminal full disk access
-
-- Open Finder
-
-- Search Hydrogen
-
-- Remove Hydrogen Folder
-
-- Remove Hydrogen Application
-
-- Open this link
-
-https://github.com/FRX397/Hydrogen/blob/main/MacOS/Bash.md
-
-- copy the bash
-
-- Open Terminal
-
-- Paste The Bash
-
-- Press enter
-
-- Open Finder
-
-- Search Roblox
-
-- Right Click On Roblox Application
-
-- Show Package content
-
-- Open Contents
-
-- Open MacOS 
-
-- Check if libhydrogen.dylib exists on roblox content files
-
-if libhydrogen.dylib dosen't exists on roblox content files follow the Instructions bellow.
-
-- Open this link
-
-https://github.com/FRX397/Hydrogen/blob/main/MacOS/Bash.md
-
-- copy the bash
-
-- Open Terminal
-
-- Paste The Bash
-
-- Press enter
- 
-check if libhydrogen.dylib exists on roblox content files agin (This file is important) 
-
---------
-
-If it didn't work please read repo and do sudo
-
-https://github.com/FRX397/Hydrogen/blob/main/MacOS/Full%20Disk%20Access%20%26%20Sudo.md
-
-
--------
-
-```Cwf_MacOS```
-
-- Open terminal
-
-- paste this in terminal
-
-```
+```js
 sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
 ```
 
-- press enter
+> press enter
+>
+> ___
+</details>
+
+> ___
+
+<details>
+  <summary>Hydrogen MacOS quit unexpectedly</summary>
+
+> Open Settings
+>
+> Security & Privacy
+>
+> Privacy
+>
+> Full disk access
+>
+> Remove full disk access from hydrogen
+>
+> Grant terminal full disk access
+>
+> Open Finder
+>
+> Search Hydrogen
+>
+> Remove Hydrogen Folder
+>
+> Remove Hydrogen Application
+>
+> [<kbd> <br>Open this link<br> </kbd>][Link]
+>
+>
+>
+> ____
+</details>
+
+> ___
+
+<details>
+  <summary>Cwf_MacOS</summary>
+
+> Copy
+>
+```js
+sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
+```
+
+> Open Terminal
+> 
+> Paste And Press <kbd><samp>Enter</samp></kbd>
+>
+> ___
+</details>
+
+> ___
