@@ -1,6 +1,8 @@
 <details>
   <summary>installation & setup</summary>
 
+> ___
+
 > visit [Hydrogen Offical Website](https://hydrogen.sh/download)
 >
 > Download For Android
@@ -12,7 +14,6 @@
 > Open roblox
 >
 > Grant Roblox Storage permissions
-> _____
 </details>
 
 > ____
