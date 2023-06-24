@@ -2,6 +2,7 @@
   <summary>about the key system </summary>
 
 > ___
+
 > - If the key system or Linkvertise is blocked, I suggest buying adless and using Hydrogen without watching ads. You also don’t need to get a key every 24 hours. Buy [<kbd> <br>Hydrogen adless<br> </kbd>][Adless]
 
 [Adless]: https://hydrogen.sh/adless
@@ -14,7 +15,8 @@
   <summary>setup</summary>
 
 > ___
- > Open Settings and turn on Linux (Beta)
+
+> Open Settings and turn on Linux (Beta)
 >
 > Develop Android Apps -> Enable the toggle for ADB Debugging.
 >
@@ -41,6 +43,7 @@ adb connect 100.115.92.2:5555
   <summary>installation</summary>
 
 > ___
+
 > visit https://hydrogen.sh/download
 >
 > Download For Android
@@ -69,6 +72,7 @@ adb install client.apk
   <summary>installation video</summary>
 
 > ___
+
 > [![Hydrogen On ChromeBook!](https://i.ytimg.com/vi/8YqwXDx_6IA/maxresdefault.jpg)](https://www.youtube.com/watch?v=sMwPbtp7GSo)
 
 </details>
@@ -81,6 +85,7 @@ adb install client.apk
   <summary>can’t connect to 100.115.92.2:5555 connection refused</summary>
 
 > ___
+
 > open Settings -> Apps on the left pane -> Google Play Store -> Manage Android Preferences -> System -> About Device. Click on “Build number” for 7-8 times continuously. It will enable the Developer Options
 >
 > Now, go back to the System page again and open Developer Options. Here, enable “ADB Debugging”.
@@ -94,6 +99,7 @@ adb install client.apk
   <summary>more than one device/emulator</summary>
 
 > ___
+
 > Run this command: 
 ```
 adb -s emulator-5554 install client.apk
@@ -123,6 +129,7 @@ adb connect 100.115.92.2:5555
   <summary>kill the server</summary>
 
 > ___
+
 > Run the command: 
 ```
 adb kill-server
@@ -137,6 +144,7 @@ adb kill-server
   <summary>No such file or directory</summary>
 
 > ___
+
 > Double check the file is in your linux files, and compare the install command to the file name to make sure it's the same name.
 
 </details>
