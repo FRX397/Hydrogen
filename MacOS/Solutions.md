@@ -1,6 +1,8 @@
 <details>
   <summary>execution dosen't work</summary>
 
+> ___
+
 > test script
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", true))()
@@ -16,13 +18,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 >
 > [Link]: https://github.com/FRX397/Hydrogen/blob/main/MacOS/install.md
 >
-> ---------
+
 </details>
 
 > ___
 
 <details>
   <summary>roblox quit unexpectly</summary>
+
+> ___
 
 > Close roblox
 >
@@ -45,13 +49,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 >
 > Join Roblox again and it will be fixed.
 >
-> -------
+
 </details>
 
 > ___
 
 <details>
   <summary>loop execution</summary>
+
+> ___
 
 > Open finder
 >
@@ -83,7 +89,7 @@ getgenv().single_ex = true;
 ```
 >
 >
-> -----
+
 </details>
 
 > ___
@@ -91,16 +97,19 @@ getgenv().single_ex = true;
 <details>
   <summary>Hydrogen is out of date.</summary>
 
+> ___
+
 > Update it -> [#macos-updates](https://discord.com/channels/924722337981530132/1060376974813573120), updated already? press "ok" and use it
 >
-> ____
-> </details>
 
-> ____
 </details>
+
+> ___
 
 <details>
   <summary>You don't have permission to save the file "random.hydro" in the folder "scripts"</summary>
+
+> ___
 
 > Open terminal
 >
@@ -112,13 +121,15 @@ sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
 
 > press enter
 >
-> ___
+
 </details>
 
 > ___
 
 <details>
   <summary>Hydrogen MacOS quit unexpectedly</summary>
+
+> ___
 
 > Open Settings
 >
@@ -144,13 +155,15 @@ sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
 >
 >
 >
-> ____
+
 </details>
 
 > ___
 
 <details>
   <summary>Cwf_MacOS</summary>
+
+> ___
 
 > Copy
 >
@@ -162,7 +175,7 @@ sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
 > 
 > Paste And Press <kbd><samp>Enter</samp></kbd>
 >
-> ___
+
 </details>
 
 > ___
