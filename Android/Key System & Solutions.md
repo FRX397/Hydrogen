@@ -1,6 +1,8 @@
 <details>
   <summary>How to get the key</summary>
 
+> ___
+
 > Click On Copy Key Link Button
 >
 > Open any browser you have
@@ -31,6 +33,8 @@
 <details>
   <summary>Hydrogen Key System Solutions</summary>
 
+> ___
+
 > - **Application error: a client-side exception has occurred**
 >
 > Use a different browser
@@ -39,7 +43,7 @@
 > - **key dosen't match HWID**
 >
 > Back to `How to get the key`
-> ___
+
 </details>
 
 > -----
