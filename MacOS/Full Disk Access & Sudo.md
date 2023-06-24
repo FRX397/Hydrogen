@@ -1,6 +1,8 @@
 <details>
   <summary>Full Disk Access</summary>
 
+> ___
+
 > Open settings 
 >
 > Security & Privacy 
@@ -13,13 +15,15 @@
 /
 > press <kbd><samp>+</samp></kbd> and add terminal / Hydrogen
 >
-> -------
+
 </details>
 
 > ___
 
 <details>
   <summary>Sudo Hydrogen</summary>
+
+> ___
 
 > Open terminal
 >
@@ -30,7 +34,7 @@ sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
 ```
 > press enter
 >
-> ___
+
 </details>
 
 > ___
