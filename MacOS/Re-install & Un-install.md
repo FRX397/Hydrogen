@@ -1,6 +1,8 @@
 <details>
   <summary>Requirements!</summary>
 
+> ___
+
 > macos version 11 or later is required
 >
 > ___
@@ -23,7 +25,7 @@
 >
 > Add/Move Roblox Application To Applications
 >
-> --------
+
 </details>
 
 > ___
@@ -32,7 +34,7 @@
   <summary>installation</summary>
 
 > ___
->
+
 > Visit [<kbd> <br>Hydrogen Offical Website<br> </kbd>][Bash]
 >
 > [Bash]: https://hydrogen.sh/download
@@ -49,13 +51,15 @@
 >
 > Press <kbd><samp>Enter</samp></kbd>
 >
-> ___
+
 </details>
 
 > ___
 
 <details>
   <summary>removal</summary>
+
+> ___
 
 > Open finder
 >
@@ -73,7 +77,7 @@
 >
 > [Roblox]: https://www.roblox.com/download
 >
-> ___
+
 </details>
 
 > ___
