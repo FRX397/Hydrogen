@@ -6,6 +6,7 @@
 > Open Finder
 >
 > Search Roblox
+>
 > Right Click On Roblox Application
 >
 > Show Package Content
