@@ -17,13 +17,7 @@
 >
 > ___
 >
-> - `Roblox Installed On Applications`
->
-> Open Finder
->
-> Search Roblox
->
-> Add/Move Roblox Application To Applications
+> Roblox must be un-installed
 >
 
 </details>
