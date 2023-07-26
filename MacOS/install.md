@@ -41,7 +41,6 @@
 >
 > Paste The Bash
 >
-> - 
 > Press <kbd><samp>Enter</samp></kbd>
 >
 
