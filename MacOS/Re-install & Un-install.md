@@ -3,7 +3,7 @@
 
 > ___
 
-> macos version 11 or later is required
+> macos version 10.15 or later is required
 >
 > ___
 >
