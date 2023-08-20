@@ -5,18 +5,11 @@
 
 > Open Finder
 >
-> Search Roblox
+> Search Hydrogen 
 >
-> Right Click On Roblox Application
->
-> Show Package Content
->
-> Open Contents
->
-> Open Resources
+> Open the Hydrogen folder
 >
 > Open workspace
->
 
 </details>
 
