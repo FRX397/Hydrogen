@@ -5,7 +5,7 @@
 
 > test script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", true))()
+loadstring(game:HttpGet('http://pastebin.com/raw/4CjbR2FT'))() 
 ```
 >
 /
