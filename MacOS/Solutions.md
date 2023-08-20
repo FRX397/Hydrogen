@@ -43,7 +43,7 @@ loadstring(game:HttpGet('http://pastebin.com/raw/4CjbR2FT'))()
 >
 > Open Hydrogen folder.
 >
-> Open scripts folder.
+> Open autoexec folder.
 >
 > Remove the files that are in the scripts folder.
 >
