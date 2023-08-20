@@ -168,7 +168,7 @@ sudo /Applications/Hydrogen.app/Contents/MacOS/"Hydrogen V2"
 > Copy
 >
 ```js
-sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
+sudo /Applications/Hydrogen.app/Contents/MacOS/"Hydrogen V2"
 ```
 
 > Open Terminal
