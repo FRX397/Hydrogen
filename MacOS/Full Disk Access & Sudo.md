@@ -30,7 +30,7 @@
 > paste this in terminal 
 
 ```js
-sudo /Applications/Hydrogen.app/Contents/MacOS/Hydrogen\ MacOS
+sudo /Applications/Hydrogen.app/Contents/MacOS/"Hydrogen V2"
 ```
 > press enter
 >
