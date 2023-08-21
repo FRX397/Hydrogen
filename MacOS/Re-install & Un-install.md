@@ -30,7 +30,7 @@
 
 > ___
 
-> Visit [<kbd> <br>Hydrogen Offical Website<br> </kbd>][Bash]
+> Visit [<kbd> <br>Hydrogen Official Website<br> </kbd>][Bash]
 >
 > [Bash]: https://hydrogen.sh/download
 >
