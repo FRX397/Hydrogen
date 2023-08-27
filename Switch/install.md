@@ -1,4 +1,16 @@
 <details>
+  <summary>Jailbreak installation</summary>
+
+> ___
+
+> Special thanks to Lotus Tech for making this video tutorial
+>
+> [![Jailbreak Installation](https://img.youtube.com/vi/vvlfGWVaaFA/maxresdefault.jpg)](https://youtu.be/vvlfGWVaaFA?feature=shared)
+
+> ___
+</details>
+
+<details>
   <summary>Android Installation</summary>
 
 > ____
