@@ -30,8 +30,11 @@
 /
 > ___
 > Use a VPN (if no work try different servers)
+> ___
 /
+> ___
 > Use a dns (dns.google)
+> ___
 /
 > ___
 > Re-install Roblox (client.apk)
