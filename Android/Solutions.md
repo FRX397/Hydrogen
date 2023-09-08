@@ -17,7 +17,7 @@
 > -----
 
 <details>
-  <summary>Hydrogen dosen't appear</summary>
+  <summary>Hydrogen not showing up</summary>
 
 > ___
 
@@ -27,6 +27,11 @@
 > ___
 > Make sure roblox has storage permissions given
 > ___
+/
+> ___
+> Use a VPN (if no work try different servers)
+/
+> Use a dns (dns.google)
 /
 > ___
 > Re-install Roblox (client.apk)
