@@ -10,3 +10,7 @@
 >
 > Since the release of Hydrogen version 2.0.0, Hydrogen now requires purchasing an [adless account](https://hydrogen.sh/adless). Without an adless account, you will not be able to use Hydrogen.
 </details>
+
+> ___
+
+</details>
