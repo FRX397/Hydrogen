@@ -1,9 +1,9 @@
 <details>
-  <summary>execution dosen't work</summary>
+  <summary>Script execution encounters failure.</summary>
 
 > ___
 
-> test script
+> a simple test script
 ```lua
 loadstring(game:HttpGet('http://pastebin.com/raw/4CjbR2FT'))() 
 ```
@@ -127,7 +127,7 @@ sudo /Applications/Hydrogen.app/Contents/MacOS/"Hydrogen V2"
 > ___
 
 <details>
-  <summary>Hydrogen MacOS quit unexpectedly</summary>
+  <summary>Hydrogen MacOS quit unexpectly</summary>
 
 > ___
 
