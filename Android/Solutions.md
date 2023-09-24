@@ -1,5 +1,5 @@
 <details>
-  <summary>execution dosen't work</summary>
+  <summary>execution encounters failure</summary>
 
 > ___
 
