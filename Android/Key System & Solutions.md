@@ -3,27 +3,8 @@
 
 > ___
 
-> Click On Copy Key Link Button
 >
-> Open any browser you have
->
-> Paste The Key Link
-> 
-> click on the check box
->
-> complete captcha check
->
-> press get key
->
-> - it redirect you to linkvertise. scroll down. press free access. complete the task. Wait 5 seconds press X. press free access again. same steps (you need to pass 3 gateways)
->
-> Copy the key
->
-> Open Hydrogen
->
-> paste the key on the key tab (not adless login)
->
-> Enter Key
+>[<img src="https://img.youtube.com/vi/pG70IqOrB2E/maxresdefault.jpg">](https://www.youtube.com/watch?v=pG70IqOrB2E "How to get the key | Hydrogen V2")
 >
 
 </details>
