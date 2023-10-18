@@ -4,9 +4,10 @@
 > ___
 
 >
-> Watch the video
->[<img src="https://img.youtube.com/vi/pG70IqOrB2E/maxresdefault.jpg">](https://www.youtube.com/watch?v=pG70IqOrB2E "How to get the key | Hydrogen V2")
->
+- Watch the video
+
+[<img src="https://img.youtube.com/vi/pG70IqOrB2E/maxresdefault.jpg">](https://www.youtube.com/watch?v=pG70IqOrB2E "How to get the key | Hydrogen V2")
+
 
 </details>
 
