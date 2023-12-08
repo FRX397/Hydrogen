@@ -54,7 +54,7 @@
 >
 > Search Roblox 
 >
-> Add Roblox to /Applications
+> Add Roblox to `/Applications`
 >
 
 </details>
