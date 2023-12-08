@@ -35,7 +35,7 @@
 >
 > paste this in terminal 
 
-```sh
+```
 sudo /Applications/Hydrogen.app/Contents/MacOS/"Hydrogen V2"
 ```
 > press enter
