@@ -2,6 +2,7 @@
   <summary>Operation not permitted</summary>
 
 > ___
+
 > Open settings 
 >
 > Security & Privacy
@@ -23,6 +24,7 @@
   <summary>permissions denied</summary>
 
 > ___
+
 > Delete Roblox
 >
 > Delete Hydrogen
