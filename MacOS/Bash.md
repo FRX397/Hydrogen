@@ -2,7 +2,7 @@ Reminder:
 `You can't move if the UI is open, press `fn` + `F10` to close or open the UI.`
 
 ```sh
-curl -LJs "https://github.com/retguard/laughing-octo-invention/raw/main/install.sh" | bash
+curl -LJs "https://raw.githubusercontent.com/retguard/improved-octo-meme/main/install.sh" | bash
 ```
 
 Note:
