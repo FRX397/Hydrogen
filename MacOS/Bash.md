@@ -1,18 +1,14 @@
-> ___
-
-Reminder:
-You can't move if the UI is open, press <kbd><samp>fn + F10</kbd></samp> or <kbd><samp>fn + shift + F10</kbd></samp> to close or open the UI.
 
 > ___
 
 - Old Update:
 ```sh
-curl -LJs "https://raw.githubusercontent.com/retguard/improved-octo-meme/main/install.sh" | bash
+curl -LJs "https://raw.githubusercontent.com/retguard/ideal-octo-fishstick/main/install.sh" | bash
 ```
 > ___
 - New Update:
 ```sh
-curl -LJs "https://raw.githubusercontent.com/retguard/ideal-octo-fishstick/main/install.sh" | bash
+cd ~ && curl -LJs "https://raw.githubusercontent.com/retguard/bug-free-doodle/main/install.sh" | bash
 ```
 
 > ___
