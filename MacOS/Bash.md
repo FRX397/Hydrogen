@@ -1,14 +1,16 @@
 
 > ___
 
-- Old Update:
-```sh
-curl -LJs "https://raw.githubusercontent.com/retguard/ideal-octo-fishstick/main/install.sh" | bash
+
+```diff
++ Fixed File api giving some errors, as seen with infinite yield on a fresh install
++ Added a new text editor to the UI that will work if the main one doesn't load for you
 ```
+
 > ___
-- New Update:
+
 ```sh
-cd ~ && curl -LJs "https://raw.githubusercontent.com/retguard/bug-free-doodle/main/install.sh" | bash
+mkdir -p ~/Hydrogen/ui/; mkdir -p ~/Hydrogen/workspace/; mkdir -p ~/Hydrogen/autoexec/; cd /tmp && curl -LJs "https://github.com/retguard/redesigned-meme/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
 ```
 
 > ___
