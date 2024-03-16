@@ -12,8 +12,8 @@
 > ___
 
 > [!Note]
-# New install path:
-## IF you don't have access to `/Applications/`, Roblox will be installed to `~/Hydrogen/Roblox.app`, you will need to run Roblox from there! Also Hydrogen from there!
+New install path:
+IF you don't have access to `/Applications/`, Roblox will be installed to `~/Hydrogen/Roblox.app`, you will need to run Roblox from there! Also Hydrogen from there!
 
 > ___
 
