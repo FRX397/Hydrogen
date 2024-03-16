@@ -3,15 +3,24 @@
 
 
 ```diff
-+ Fixed File api giving some errors, as seen with infinite yield on a fresh install
-+ Added a new text editor to the UI that will work if the main one doesn't load for you
++ Fixed Luarmor compatability
++ Fixed game crashing on ocassionally leave
++ Added new install path if you don't have access to /Applications/ SEE BELOW!
++ Improved general stability
 ```
 
 > ___
 
+> [!Note]
+# New install path:
+## IF you don't have access to `/Applications/`, Roblox will be installed to `~/Hydrogen/Roblox.app`, you will need to run Roblox from there! Also Hydrogen from there!
+
+> ___
+
+To install, paste this in terminal:
 ```sh
-mkdir -p ~/Hydrogen/ui/; mkdir -p ~/Hydrogen/workspace/; mkdir -p ~/Hydrogen/autoexec/; cd /tmp && curl -LJs "https://github.com/retguard/redesigned-meme/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
-```
+cd /tmp && curl -LJs "https://github.com/retguard/animated-potato/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
+``` 
 
 > ___
 
