@@ -10,7 +10,7 @@
 
 > ___
 
-> - Hydrogen MacOS Status'
+> - Hydrogen MacOS Status:
 > ![Working]
 
 > ___ 
