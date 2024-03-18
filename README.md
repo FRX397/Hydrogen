@@ -3,26 +3,14 @@
 
 [Not Working]: https://raw.githubusercontent.com/FRX397/GitHub-Markdown/main/blockquotes/badge/dark-theme/Nw.svg
 
-<details>
- <summary>Hydrogen Android Status</summary>
+> ___
 
+>- Hydrogen Android Status:
+> - - ![Not Working]
 
 > ___
 
-> ![Not Working]
-
-</details>
-
-> ___
-
-<details>
- <summary>Hydrogen MacOS Status</summary>
-
-
-> ___
-
-> ![Working]
-
-</details>
+> - Hydrogen MacOS Status</summary>
+> - - ![Working]
 
 > ___ 
