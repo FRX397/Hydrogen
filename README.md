@@ -6,11 +6,11 @@
 > ___
 
 > - Hydrogen Android Status:
-> - ![Not Working]
+> ![Not Working]
 
 > ___
 
 > - Hydrogen MacOS Status'
-> - ![Working]
+> ![Working]
 
 > ___ 
