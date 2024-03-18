@@ -11,7 +11,7 @@
 
 > ___
 
-> Hydrogen MacOS Status:
+> Hydrogen Mac Status:
 >
 > ![Working]
 
