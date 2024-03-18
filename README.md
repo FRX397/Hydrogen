@@ -5,13 +5,13 @@
 
 > ___
 
-> - Hydrogen Android Status:
+> Hydrogen Android Status:
 
 > ![Not Working]
 
 > ___
 
-> - Hydrogen MacOS Status:
+> Hydrogen MacOS Status:
 
 > ![Working]
 
