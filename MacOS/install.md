@@ -24,9 +24,9 @@
 
 > ___
 
-> [<kbd> <br>Visit Hydrogen Official Website<br> </kbd>][Bash]
+> [<kbd> <br>Visit This Link (click me)<br> </kbd>][Bash]
 >
-> [Bash]: https://hydrogen.sh/download
+> [Bash]: https://github.com/FRX397/Hydrogen/blob/main/MacOS%2FBash.md
 >
 > ___
 >
