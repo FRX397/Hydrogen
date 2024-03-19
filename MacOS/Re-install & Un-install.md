@@ -15,7 +15,6 @@
 >
 > [FDA]: https://github.com/FRX397/Hydrogen/blob/main/MacOS/Full%20Disk%20Access%20%26%20Sudo.md
 >
-> ___
 
 </details>
 
