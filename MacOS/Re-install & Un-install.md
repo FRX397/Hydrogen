@@ -16,10 +16,6 @@
 > [FDA]: https://github.com/FRX397/Hydrogen/blob/main/MacOS/Full%20Disk%20Access%20%26%20Sudo.md
 >
 > ___
->
-> Roblox must be un-Installed
-
->
 
 </details>
 
@@ -30,9 +26,9 @@
 
 > ___
 
-> [<kbd> <br>Visit Hydrogen Official Website<br> </kbd>][Bash]
+> [<kbd> <br>Visit This Link (click me)<br> </kbd>][Bash]
 >
-> [Bash]: https://hydrogen.sh/download
+> [Bash]: https://github.com/FRX397/Hydrogen/blob/main/MacOS%2FBash.md
 >
 > ___
 >
