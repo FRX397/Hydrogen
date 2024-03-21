@@ -13,6 +13,6 @@
 
 > Hydrogen Mac Status:
 >
-> ![Working]
+> ![Not Working]
 
 > ___ 
