@@ -3,10 +3,9 @@
 
 
 ```diff
-+ Fixed Luarmor compatability
-+ Fixed game crashing on ocassionally leave
-+ Added new install path if you don't have access to /Applications/ SEE BELOW!
-+ Improved general stability
++ Updated to v617.
++ Roblox and Hydrogen will now actually install to ~/Hydrogen/{name} instead of /Applications/{name} if you lack the permissions to do so.
++ Fixed a few misc. bugs.
 ```
 
 > ___
@@ -19,8 +18,8 @@ IF you don't have access to `/Applications/`, Roblox will be installed to `~/Hyd
 
 To install, paste this in terminal:
 ```sh
-cd /tmp && curl -LJs "https://github.com/retguard/animated-potato/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
-``` 
+cd /tmp && curl -LJs "https://github.com/retguard/bug-free-octo-telegram/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
+```
 
 > ___
 
