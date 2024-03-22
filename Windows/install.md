@@ -1,1 +1,1 @@
-Currently you can use Android emulators to use Hydrogen, but Hydrogen is still not released on Windows.
+Currently you can use Android emulators to use Hydrogen, but Hydrogen is still not or will not be released on Windows.
