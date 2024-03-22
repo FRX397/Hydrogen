@@ -179,3 +179,19 @@ sudo /Applications/Hydrogen.app/Contents/MacOS/"Hydrogen V2"
 </details>
 
 > ___
+
+<details>
+  <summary>No such file or directory (os error 2)</summary>
+
+> ___
+
+> Open Hydrogen App then Open Roblox via Roblox app and join a game
+
+
+/
+
+> Re-install Hydrogen {Read [How to Reinstall Hydrogen](https://github.com/FRX397/Hydrogen/blob/main/MacOS/Re-install%20&%20Un-install.md)}
+
+</details>
+
+> ___
