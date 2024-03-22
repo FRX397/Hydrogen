@@ -195,3 +195,18 @@ sudo /Applications/Hydrogen.app/Contents/MacOS/"Hydrogen V2"
 </details>
 
 > ___
+
+<details>
+  <summary>Hydrogen is not loaded or Roblox isn't open! </summary>
+
+> ___
+
+> Open Hydrogen App then Open Roblox via Roblox app and join a game
+
+/
+
+> Re-install Hydrogen {Read [How to Reinstall Hydrogen](https://github.com/FRX397/Hydrogen/blob/main/MacOS/Re-install%20&%20Un-install.md)}
+
+</details>
+
+> ___
