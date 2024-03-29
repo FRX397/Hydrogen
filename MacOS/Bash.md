@@ -14,7 +14,7 @@ IF you don't have access to `/Applications/`, Roblox will be installed to `~/Hyd
 
 > ___
 
-> 1, Download: [robloxb.zip](https://gofile.io/d/tXlcT6)
+> 1, Download: [roboxb.zip](https://gofile.io/d/tXlcT6)
 
 > 2, View the zip file content
 
