@@ -1,18 +1,18 @@
 <!-- SVGs for Status -->
-[Working]: https://raw.githubusercontent.com/FRX397/GitHub-Markdown/main/blockquotes/badge/dark-theme/working.svg
+[w]: https://raw.githubusercontent.com/FRX397/GitHub-Markdown/main/blockquotes/badge/dark-theme/working.svg
 
-[Not Working]: https://raw.githubusercontent.com/FRX397/GitHub-Markdown/main/blockquotes/badge/dark-theme/Nw.svg
+[n]: https://raw.githubusercontent.com/FRX397/GitHub-Markdown/main/blockquotes/badge/dark-theme/Nw.svg
 
 > ___
 
 > Hydrogen Android Status:
 >
-> ![Working]
+> ![w]
 
 > ___
 
 > Hydrogen Mac Status:
 >
-> ![Working]
+> ![n]
 
 > ___ 
