@@ -14,9 +14,9 @@ IF you don't have access to `/Applications/`, Roblox will be installed to `~/Hyd
 
 > ___
 
-- 1, Download: [robloxb.zip](https://gofile.io/d/tXlcT6)
-- 2, View the zip file content
-- 3, Move Hydrogen and Roblox to /Applications
+> 1, Download: [robloxb.zip](https://gofile.io/d/tXlcT6)
+> 2, View the zip file content
+> 3, Move Hydrogen and Roblox to /Applications
 Enjoy.
 Special thanks to crookhd for giving me this solution.
 
