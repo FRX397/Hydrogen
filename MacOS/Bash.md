@@ -19,8 +19,10 @@ IF you don't have access to `/Applications/`, Roblox will be installed to `~/Hyd
 > 2, View the zip file content
 
 > 3, Move Hydrogen and Roblox to /Applications
-Enjoy.
-Special thanks to crookhd for giving me this solution.
+
+> Enjoy.
+
+> Special thanks to crookhd for giving me this solution.
 
 > ___
 
