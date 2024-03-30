@@ -8,6 +8,11 @@
 
 > ___
 
+> [!Note]
+Roblox and Hydrogen must be Uninstalled before following the instructions below
+
+> ___
+
 
 > 1, Download: [roboxb.zip](https://gofile.io/d/tXlcT6)
 
