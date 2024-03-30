@@ -8,11 +8,6 @@
 
 > ___
 
-> [!Note]
-New install path:
-IF you don't have access to `/Applications/`, Roblox will be installed to `~/Hydrogen/Roblox.app`, you will need to run Roblox from there! Also Hydrogen from there!
-
-> ___
 
 > 1, Download: [roboxb.zip](https://gofile.io/d/tXlcT6)
 
