@@ -9,18 +9,39 @@
 > ___
 
 > [!Note]
+Your mac os version must be 10.15 or up to run Hydrogen.
 Roblox and Hydrogen must be Uninstalled before following the instructions below
 
 > ___
 
 
-> 1, Download: [roboxb.zip](https://gofile.io/d/tXlcT6)
+- 1st: download this zip file: https://gofile.io/d/tXlcT6
 
-> 2, View the zip file content
+___
 
-> 3, Move Hydrogen and Roblox to /Applications
+- 2nd: Open Zip file and open the folder that has new Hydrogen and Roblox 
 
-> Enjoy.
+___
+
+- 3rd: When opening Roblox and Hydrogen, Go to system preferences, navigate to “Privacy & Security” scroll down under the “Security” and will see Roblox and Hydrogen wants to be Opened click open anyway for both Application 
+
+___
+
+- 4th: DO NOT OPEN ROBLOX FROM APPLICATIONS OR DOCK 
+
+___
+
+- 5th: Open Roblox from www.roblox.com, and join your desired experience 
+
+___
+
+- 6th: Open Hydrogen from applications and execute your script
+
+___
+
+- 7th: Enjoy!
+
+___
 
 > Special thanks to crookhd for giving me this solution.
 
