@@ -28,19 +28,23 @@ ___
 
 ___
 
-- 4th: DO NOT OPEN ROBLOX FROM APPLICATIONS OR DOCK 
+- 4th: Move Roblox and Hydrogen applications from the zip file to Applications folder
 
 ___
 
-- 5th: Open Roblox from www.roblox.com, and join your desired experience 
+- 5th: DO NOT OPEN ROBLOX FROM APPLICATIONS OR DOCK 
 
 ___
 
-- 6th: Open Hydrogen from applications and execute your script
+- 6th: Open Roblox from www.roblox.com, and join your desired experience 
 
 ___
 
-- 7th: Enjoy!
+- 7th: Open Hydrogen from applications and execute your script
+
+___
+
+- 8th: Enjoy!
 
 ___
 
