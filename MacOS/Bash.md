@@ -32,6 +32,7 @@ Your Mac account must be adminstrator.
 > Roblox and Hydrogen must be Uninstalled. 
 > ___
 
+> ___
 
 To install, please paste this in your terminal:
 ```sh
