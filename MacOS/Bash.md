@@ -26,7 +26,6 @@ Thanks for your patience!
 
 > [!Note]
 Your Mac account must be adminstrator.
-
 >
 >Your mac os version must be 10.15 or up to run Hydrogen.
 >
