@@ -8,7 +8,7 @@
 
 > ___
 
-“ ```md
+```md
 # Wondering why the update took so long?
 Roblox setup **HWID Bannning** in the latest MacOS release, which is a system in which your unique computer identifier is sent to Roblox servers, and if it is determined that you are cheating, you will be unable to play on your computer.
 
@@ -17,7 +17,8 @@ The update took so long because I was putting measures in place to prevent this 
 Other products rushed their update, and all of their users accounts will be banned, alongside their computers. I didn't want that to happen to Hydrogen users.
 
 Thanks for your patience!
-``` ” - Retguard
+``` 
+- Retguard
 
 > ___
 
