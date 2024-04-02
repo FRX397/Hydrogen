@@ -30,7 +30,6 @@ Your Mac account must be adminstrator.
 >Your mac os version must be 10.15 or up to run Hydrogen.
 > ___
 > Roblox and Hydrogen must be Uninstalled. 
-> ___
 
 > ___
 
