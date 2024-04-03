@@ -3,7 +3,7 @@
 
 
 ```diff
-+ Updated for latest push.
++ Added isfunctionhooked
 ```
 
 > ___
@@ -33,7 +33,7 @@ Your Mac account must be adminstrator.
 
 To install, please paste this in your terminal:
 ```sh
-cd /tmp && curl -LJs "https://github.com/retguard/fictional-garbanzo/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
+cd /tmp && curl -LJs "https://github.com/retguard/turbo-palm-tree/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
 ```
 
 > ___
