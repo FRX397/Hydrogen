@@ -3,7 +3,14 @@
 
 
 ```diff
-+ Added isfunctionhooked
++ Added getscriptbytecode, dumpstring
++ Added getscriptclosure, getscriptfunction
++ Added getscripthash
++ Fixed isexecutorclosure
++ Fixed gethiddenproperty (mostly)
++ Fixed sethiddenproperty (mostly)
++ Fixed isscriptable (mostly)
++ Fixed setscriptable (mostly)
 ```
 
 > ___
@@ -33,7 +40,7 @@ Your Mac account must be adminstrator.
 
 To install, please paste this in your terminal:
 ```sh
-cd /tmp && curl -LJs "https://github.com/retguard/turbo-palm-tree/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
+cd /tmp && curl -LJs "https://github.com/retguard/reimagined-fiesta/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
 ```
 
 > ___
