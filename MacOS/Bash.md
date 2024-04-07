@@ -3,14 +3,11 @@
 
 
 ```diff
-+ Added getscriptbytecode, dumpstring
-+ Added getscriptclosure, getscriptfunction
-+ Added getscripthash
-+ Fixed isexecutorclosure
-+ Fixed gethiddenproperty (mostly)
-+ Fixed sethiddenproperty (mostly)
-+ Fixed isscriptable (mostly)
-+ Fixed setscriptable (mostly)
++ Fixed gui initialization
++ Fixed hohohub
++ Fixed hydroxide
++ Fixed Infinite Yield
++ Probably fixed other scripts too
 ```
 
 > ___
@@ -40,7 +37,7 @@ Your Mac account must be adminstrator.
 
 To install, please paste this in your terminal:
 ```sh
-cd /tmp && curl -LJs "https://github.com/retguard/reimagined-fiesta/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
+cd /tmp && curl -LJs "https://github.com/retguard/automatic-system/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
 ```
 
 > ___
