@@ -2,13 +2,9 @@
 > ___
 
 
-```diff
-+ Fixed gui initialization
-+ Fixed hohohub
-+ Fixed hydroxide
-+ Fixed Infinite Yield
-+ Probably fixed other scripts too
-```
+Roblox reverted for some reason to v618.
+
+Unfortunately that means we lost the last two updates (until this wednesday), or until they un-revert. Sorry about this.
 
 > ___
 
@@ -37,7 +33,7 @@ Your Mac account must be adminstrator.
 
 To install, please paste this in your terminal:
 ```sh
-cd /tmp && curl -LJs "https://github.com/retguard/automatic-system/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
+cd /tmp && curl -LJs "https://github.com/retguard/fictional-garbanzo/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
 ```
 
 > ___
