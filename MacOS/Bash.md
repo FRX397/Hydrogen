@@ -2,9 +2,21 @@
 > ___
 
 
-Roblox reverted for some reason to v618.
-
-Unfortunately that means we lost the last two updates (until this wednesday), or until they un-revert. Sorry about this.
+```diff
++ Added getconstants as alias for debug.getconstants
++ Fixed filesystem root escape (sorry)
++ Added getscriptbytecode, dumpstring
++ Added getscriptclosure, getscriptfunction
++ Added getscripthash
++ Fixed isexecutorclosure
++ Fixed gethiddenproperty (mostly)
++ Fixed sethiddenproperty (mostly)
++ Fixed isscriptable (mostly)
++ Fixed setscriptable (mostly)
++ Really fixed Hydroxide, IY
++ Fixed gethui, in rare cases it would fail, causing IY, Hydroxide, to not work
++ Added bit32.byteswap, this should make luraph (?) and luarmor (?) scripts work better
+```
 
 > ___
 
@@ -33,7 +45,7 @@ Your Mac account must be adminstrator.
 
 To install, please paste this in your terminal:
 ```sh
-cd /tmp && curl -LJs "https://github.com/retguard/fictional-garbanzo/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
+cd /tmp && curl -LJs "https://github.com/retguard/jubilant-guide/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
 ```
 
 > ___
