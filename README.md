@@ -7,7 +7,7 @@
 
 > Hydrogen Android Status:
 >
-> ![w]
+> ![n]
 
 > ___
 
