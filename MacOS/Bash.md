@@ -2,7 +2,7 @@
 > ___
 
 
-```diff
+```md
 + Added new UI (feature listed below)
   * Luau language server, with Roblox types and globals (autocompletion)
   * Rainbow brackets
