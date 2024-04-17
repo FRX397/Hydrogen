@@ -3,19 +3,33 @@
 
 
 ```diff
-+ Added getconstants as alias for debug.getconstants
-+ Fixed filesystem root escape (sorry)
-+ Added getscriptbytecode, dumpstring
-+ Added getscriptclosure, getscriptfunction
-+ Added getscripthash
-+ Fixed isexecutorclosure
-+ Fixed gethiddenproperty (mostly)
-+ Fixed sethiddenproperty (mostly)
-+ Fixed isscriptable (mostly)
-+ Fixed setscriptable (mostly)
-+ Really fixed Hydroxide, IY
-+ Fixed gethui, in rare cases it would fail, causing IY, Hydroxide, to not work
-+ Added bit32.byteswap, this should make luraph (?) and luarmor (?) scripts work better
++ Added new UI (feature listed below)
+  * Luau language server, with Roblox types and globals (autocompletion)
+  * Rainbow brackets
+  * Simple and clean
+  * Uses new communication method (TCP sockets), so custom UIs are possible.
++ Added `crypt.encrypt`, `crypt.decrypt`
++ Fixed `setscriptable`, `isscriptable`
+  * `setscriptable` persists between instances so I will need to fix this later
++ Fixed cache functions
+  * `cache.invalidate`, `cache.iscached`, `cache.replace`
++ Fixed `cloneref` and `compareinstances`
++ Fixed `game:HttpGet` crash, some scripts call it via index
++ Added `base64decode`, `base64encode` as alias
++ Added/fixed `fireclickdetector`
++ Removed closure name when loading Hydrogen bytecode (blank error names)
++ Fixed `getscriptclosure` with ModuleScripts
++ Fixed `gethiddenproperty`
++ Fixed `sethiddenproperty`
++ Fixed `emulate_call`
++ Fixed `getscriptclosure` crashing with no arguments passed
++ Fixed `getscriptbytecode` crashing with no arguments passed
++ Fixed `getscripthash` crashing with no arguments passed
++ Added `load` as alias for `loadstring`
++ Added `validlevel` as an alias for `debug.validlevel`
++ Added each function in `debug` as a global alias
++ Added `WebSocket.connect`, `websocket.connect`
++ 96% UNC
 ```
 
 > ___
@@ -29,7 +43,13 @@ The update took so long because I was putting measures in place to prevent this 
 Other products rushed their update, and all of their users accounts will be banned, alongside their computers. I didn't want that to happen to Hydrogen users.
 
 Thanks for your patience!
-``` 
+```
+
+> ___
+
+```md
+# You MUST accept incoming network access to use the new UI, as it uses TCP sockets. You have to accept it for both the UI and Roblox when it starts.
+```
 - Retguard
 
 > ___
@@ -45,7 +65,7 @@ Your Mac account must be adminstrator.
 
 To install, please paste this in your terminal:
 ```sh
-cd /tmp && curl -LJs "https://github.com/retguard/jubilant-guide/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
+cd /tmp && curl -LJs "https://github.com/retguard/supreme-funicular/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
 ```
 
 > ___
