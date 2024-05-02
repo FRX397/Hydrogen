@@ -3,33 +3,9 @@
 
 
 ```md
-+ Added new UI (feature listed below)
-  * Luau language server, with Roblox types and globals (autocompletion)
-  * Rainbow brackets
-  * Simple and clean
-  * Uses new communication method (TCP sockets), so custom UIs are possible.
-+ Added `crypt.encrypt`, `crypt.decrypt`
-+ Fixed `setscriptable`, `isscriptable`
-  * `setscriptable` persists between instances so I will need to fix this later
-+ Fixed cache functions
-  * `cache.invalidate`, `cache.iscached`, `cache.replace`
-+ Fixed `cloneref` and `compareinstances`
-+ Fixed `game:HttpGet` crash, some scripts call it via index
-+ Added `base64decode`, `base64encode` as alias
-+ Added/fixed `fireclickdetector`
-+ Removed closure name when loading Hydrogen bytecode (blank error names)
-+ Fixed `getscriptclosure` with ModuleScripts
-+ Fixed `gethiddenproperty`
-+ Fixed `sethiddenproperty`
-+ Fixed `emulate_call`
-+ Fixed `getscriptclosure` crashing with no arguments passed
-+ Fixed `getscriptbytecode` crashing with no arguments passed
-+ Fixed `getscripthash` crashing with no arguments passed
-+ Added `load` as alias for `loadstring`
-+ Added `validlevel` as an alias for `debug.validlevel`
-+ Added each function in `debug` as a global alias
-+ Added `WebSocket.connect`, `websocket.connect`
-+ 96% UNC
+- Had to disable `getnilinstances` because of a really weird GC bug
+- Client memory usage might be higher, had to do something very hacky to get this realease to work
++ This will be fixed soon
 ```
 
 > ___
@@ -65,7 +41,7 @@ Your Mac account must be adminstrator.
 
 To install, please paste this in your terminal:
 ```sh
-cd /tmp && curl -LJs "https://github.com/retguard/supreme-funicular/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
+cd /tmp && curl -LJs "https://github.com/retguard/upgraded-octo-journey/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
 ```
 
 > ___
