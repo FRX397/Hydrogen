@@ -13,6 +13,6 @@
 
 > Hydrogen Mac Status:
 >
-> ![y]
+> ![w]
 
 > ___ 
