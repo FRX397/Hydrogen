@@ -11,7 +11,7 @@
 
 > ___
 
-> Hydrogen Mac Status:
+> Hydrogen-M Status:
 >
 > ![w]
 
