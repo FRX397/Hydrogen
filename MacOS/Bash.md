@@ -47,6 +47,6 @@ cd /tmp && curl -LJs "https://github.com/retguard/upgraded-octo-journey/raw/main
 > ___
 
 > [!Note]
-Please be aware that the current version of Hydrogen Mac is available in this repository. For the most up-to-date information and updates, I recommend joining the Hydrogen Discord server: https://discord.gg/hydrogen-924722337981530132
+Please be aware that the current version of Hydrogen Mac is available in this repository. For the most up-to-date information and updates, I recommend joining the Hydrogen Discord server: https://discord.gg/gethydrogen
 
 > ___
