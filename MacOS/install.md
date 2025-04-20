@@ -3,17 +3,11 @@
 
 > ___
 
-> macos version 10.15 or later is required
+> macOS version 11.0 or later is required
 >
 > ___
 >
-> Adminstrator account (mac) is required
->
-> ___
->
-> [<kbd> <br>Terminal Full Disk Access<br> </kbd>][FDA]
->
-> [FDA]: https://github.com/FRX397/Hydrogen/blob/main/MacOS/Full%20Disk%20Access%20%26%20Sudo.md
+> Your Mac account must have administrator privileges.
 
 </details>
 
