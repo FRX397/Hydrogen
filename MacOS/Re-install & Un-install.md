@@ -9,8 +9,6 @@
 >
 > Your Mac account must have administrator privileges.
 
-> ___
-
 </details>
 
 > ___
