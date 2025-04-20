@@ -44,8 +44,7 @@ Core changes:
 > [!Note]
 Your Mac account must be adminstrator.
 > ___
->Your mac os version must be 10.15 or up to run Hydrogen.
-> ___
+>Your mac os version must be BigSur or up to run Hydrogen.
 
 > ___
 
