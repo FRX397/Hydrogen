@@ -36,7 +36,7 @@
 > paste this in terminal 
 
 ```
-sudo /Applications/Hydrogen.app/Contents/MacOS/"Hydrogen V2"
+sudo /Applications/Hydrogen-M.app/Contents/MacOS/Hydrogen-M
 ```
 > press enter
 >
