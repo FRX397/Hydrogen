@@ -3,9 +3,7 @@
 
 Hydrogen MacOS returns!
 
-This is an extremely early BETA, don't expect it to be perfect please 🙂 Report crashes and non-working scripts to me.
-
-**Hydrogen MacOS currently ONLY SUPPORTS M-SERIES MACS, i.e. M1, M2, M3, M4. Please keep this in mind before trying the beta.** 
+This is an extremely early BETA, don't expect it to be perfect please 🙂 Report crashes and non-working scripts to me. 
 
 **Features**:
 ```md
