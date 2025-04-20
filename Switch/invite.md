@@ -1,1 +1,1 @@
-[Click me to join Hydrogen Discord Server](https://discord.com/invite/gethydrogen)
+https://discord.com/invite/gethydrogen
