@@ -1,6 +1,6 @@
 [<kbd> <br> Hydrogen Official Discord Server <br> </kbd>][Hydrogen]
 
-[Hydrogen]: https://discord.com/invite/hydrogen-924722337981530132
+[Hydrogen]: https://discord.com/invite/gethydrogen 
 
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
