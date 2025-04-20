@@ -3,30 +3,41 @@
 
 
 ```md
-- Had to disable `getnilinstances` because of a really weird GC bug
-- Client memory usage might be higher, had to do something very hacky to get this realease to work
-+ This will be fixed soon
+Hydrogen MacOS returns!
+
+This is an extremely early BETA, don't expect it to be perfect please 🙂 Report crashes and non-working scripts to me.
+
+**Hydrogen MacOS currently ONLY SUPPORTS M-SERIES MACS, i.e. M1, M2, M3, M4. Please keep this in mind before trying the beta.** 
+
+**Features**:
+- Hydrogen is the **only** tool that has a native and Metal accelerated drawing library
+- **Undetected** in Da Hood and Faithful AC V3 by europa
+- Fast updates
+- Stable execution environment
 ```
 
 > ___
 
 ```md
-# Wondering why the update took so long?
-Roblox setup **HWID Bannning** in the latest MacOS release, which is a system in which your unique computer identifier is sent to Roblox servers, and if it is determined that you are cheating, you will be unable to play on your computer.
-
-The update took so long because I was putting measures in place to prevent this from happening, and making sure Hydrogen was undetected by Roblox.
-
-Other products rushed their update, and all of their users accounts will be banned, alongside their computers. I didn't want that to happen to Hydrogen users.
-
-Thanks for your patience!
+Core changes:
+- Add filtergc
+- Add sethiddenproperty and gethiddenproperty (doesn’t pass sUNC because I haven’t created a BinaryString deserializer)
+- Fixed setthreadidentity
+- Fixed getthreadidentity
+- Fixed gethui
+- Added a service resolver to the index hook (i.e. on a Hydrogen thread, `game.Players` resolves to `game:GetService(“Players”)` so that a game renaming a service doesn’t effect script execution)
 ```
 
 > ___
 
-```md
-# You MUST accept incoming network access to use the new UI, as it uses TCP sockets. You have to accept it for both the UI and Roblox when it starts.
-```
-- Retguard
+- xgladius
+
+> ___
+
+- sUNC: 83%
+> https://sunc.rubis.app/?scrap=9QJfq5ialtm7caKh&key=HEpJSqieh3BmSGQT2iO4uOkHsTiebqRt
+
+- UNC: 90%
 
 > ___
 
