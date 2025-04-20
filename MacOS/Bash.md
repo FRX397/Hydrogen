@@ -5,6 +5,8 @@ Hydrogen MacOS returns!
 
 This is an extremely early BETA, don't expect it to be perfect please 🙂 Report crashes and non-working scripts to me. 
 
+Hydrogen MacOS is the first ever scripting utility to natively support both arm64 and x86_64! Enjoy unrivaled performance and memory utilization. Featuring a Metal hook for the drawing library, ensuring maximum performance. 
+
 **Features**:
 ```md
 - Hydrogen is the **only** tool that has a native and Metal accelerated drawing library
