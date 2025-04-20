@@ -48,9 +48,9 @@
 >
 > Remove Roblox Application
 >
-> [<kbd> <br>Re-install Roblox<br> </kbd>][Roblox]
+> Re-install Roblox:
 >
-> [Roblox]: https://www.roblox.com/download
+> https://www.roblox.com/download
 >
 
 </details>
