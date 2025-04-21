@@ -17,15 +17,19 @@ Hydrogen MacOS is the first ever scripting utility to natively support both arm6
 
 > ___
 
+Big Update!
+
 ```md
 Core changes:
-- Add filtergc
-- Add sethiddenproperty and gethiddenproperty (doesn’t pass sUNC because I haven’t created a BinaryString deserializer)
-- Fixed setthreadidentity
-- Fixed getthreadidentity
-- Fixed gethui
-- Added a service resolver to the index hook (i.e. on a Hydrogen thread, `game.Players` resolves to `game:GetService(“Players”)` so that a game renaming a service doesn’t effect script execution)
+- Fixed getsenv
+- Fixed hookfunction
+- Fixed clonefunction
+- Fixed debug.getstack
+- Fixed debug.setstack
+- Added sethiddenproperty, doesn’t pass sUNC though because of BinaryString and SharedString (almost done reversing this
 ```
+
+**Hydrogen now has the highest sUNC score of all MacOS scripting utilities!**
 
 > ___
 
@@ -33,10 +37,10 @@ Core changes:
 
 > ___
 
-- sUNC: 83%
-> https://sunc.rubis.app/?scrap=9QJfq5ialtm7caKh&key=HEpJSqieh3BmSGQT2iO4uOkHsTiebqRt
+- sUNC: 91%
+> https://sunc.rubis.app/?scrap=wCJrS0lYanQv1S1z&key=ZXcmEizFZMufJDmmgCDGTEVIn1fa2nhW
 
-- UNC: 90%
+- UNC: 94%
 
 > ___
 
@@ -49,7 +53,7 @@ Your Mac account must be adminstrator.
 
 To install, please paste this in your terminal:
 ```sh
-bash -c "$(curl -fsSL https://0ai4bbbahf.ufs.sh/f/4fzhZqSSYIjmUZpbE5XAgLkF67GUQ3DTbxjXyp052lYrBi8M)"
+bash -c "$(curl -fsSL https://0ai4bbbahf.ufs.sh/f/4fzhZqSSYIjm5PWoiZFC3tDrd4BxgTcwUaPjZ67XmAneGOLz)"
 ```
 
 > ___
