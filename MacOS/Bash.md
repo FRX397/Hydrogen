@@ -17,16 +17,14 @@ Hydrogen MacOS is the first ever scripting utility to natively support both arm6
 
 > ___
 
-Big Update!
+Massive update!
 
-```md
 Core changes:
-- Fixed getsenv
-- Fixed hookfunction
-- Fixed clonefunction
-- Fixed debug.getstack
-- Fixed debug.setstack
-- Added sethiddenproperty, doesn’t pass sUNC though because of BinaryString and SharedString (almost done reversing this
+- Implemented/fixed gethiddenproperty and sethiddenproperty to actually return hidden properties like BinaryString and SharedString
+- Added firetouchinterest
+- Implemented saveinstance, provided by `UniversalSynSaveInstance https://discord.gg/wx4ThpAsmw`. The documentation in Hydrogen for saveinstance is `saveinstance(config: {})` where the config is a table described by https://luau.github.io/UniversalSynSaveInstance/api/SynSaveInstance. If no config is passed, the default config is: `{ SafeMode = true, timeout = 15, SaveBytecode = true }`
+- Fixed an annoying issue where teleports and game joins could cause a crash
+- Fixed a bug that would cause the game to freeze on join
 ```
 
 **Hydrogen now has the highest sUNC score of all MacOS scripting utilities!**
@@ -37,10 +35,10 @@ Core changes:
 
 > ___
 
-- sUNC: 91%
-> https://sunc.rubis.app/?scrap=wCJrS0lYanQv1S1z&key=ZXcmEizFZMufJDmmgCDGTEVIn1fa2nhW
+- sUNC: 96%
+> https://sunc.rubis.app/?scrap=5qh7GIfCDb8WZjtp&key=3Hq4Uz3Oc3X9G34ROz12ODY4VJIwXuUH
 
-- UNC: 94%
+- UNC: higher than 94%
 
 > ___
 
