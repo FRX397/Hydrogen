@@ -18,7 +18,7 @@ Hydrogen MacOS is the first ever scripting utility to natively support both arm6
 > ___
 
 Massive update!
-
+```md
 Core changes:
 - Implemented/fixed gethiddenproperty and sethiddenproperty to actually return hidden properties like BinaryString and SharedString
 - Added firetouchinterest
@@ -51,7 +51,7 @@ Your Mac account must be adminstrator.
 
 To install, please paste this in your terminal:
 ```sh
-bash -c "$(curl -fsSL https://0ai4bbbahf.ufs.sh/f/4fzhZqSSYIjm5PWoiZFC3tDrd4BxgTcwUaPjZ67XmAneGOLz)"
+bash -c "$(curl -fsSL https://0ai4bbbahf.ufs.sh/f/4fzhZqSSYIjmFo52DqzgHrQAIe0G7wnRxDcNTsfUYVjM6iZm)"
 ```
 
 > ___
